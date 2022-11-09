@@ -4,8 +4,8 @@
 <h1>Faculty Mentor(s) Name:- Mathupriya S</h1>  
 <h1>Team Members:-</h1>
 <ul>
-<li>Kavana Rao Y</li>
-<li>Sudharshiny T A</li>
-<li>Joe Mariam J</li>
-<li>Archana K</li>
-<li>Saujanya K</li> 
+<li>Shanmugapriya P</li>
+<li>Dhanushiya Y</li>
+<li>Monika B</li>
+<li>Aruna A</li>
+<li>Sindhumeenal T</li> 
