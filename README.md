@@ -3,13 +3,8 @@ Digital Naturalist - AI Enabled tool for Biodiversity Researchers
 
 
 Team members:
-
-     1.Shanmuga priya P
-     
-     2.Dhanushiya Y 
-     
-     3.Monika B
-     
-     4.Sindhu Meenal T 
-     
-     5.Aruna 
+     1.SHANMUGA PRIYA P
+     2.MONIKA B
+     3.DHANUSHIYA Y 
+     4.ARUNA 
+     5.SINDHU MEENAL 7
