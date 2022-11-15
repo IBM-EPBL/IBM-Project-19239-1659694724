@@ -1,0 +1,3 @@
+early_stop_loss = Earlystopping (monitor="loss", patience=3, verbos e=l)
+early stop_val_acc = EarlyStopping (monitor='val_accuracy ' , patience=3, verbos e=1)
+modet_callbacks=[ early_stop_OSs, early_stop_val_acc
