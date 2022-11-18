@@ -26,8 +26,8 @@ In this project, we are creating a web application which uses a deep learning mo
 <h2>Architecture Diagram:-<h2>
 <img src="https://lh3.googleusercontent.com/zYy7n-JaraSS-1nC47xBKlQVAiGqTda679j8Sg3VgV-VLYAv58JPvHRmn-mcU1O66LTro8pC7eTiUt38RpCX9mSmG4UvQoF7Lp7ZOqJiQ5nqvrZ-G7WVlGv6MPu8FwwB77Q051g"/>
 <h2>Project Flow:-</h2>
-<h4>Download/Create dataset.
-Augment the dataset
+  <h4><li>Download/Create dataset.</li>
+    <li>Augment the dataset</li>
 Preprocess the images and load the data of images into Numpy Arrays.
 Perform a Train Test Split on the dataset.
 Define the model creation function: adding all the neural network layers required.
