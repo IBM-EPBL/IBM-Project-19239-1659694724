@@ -28,8 +28,8 @@ In this project, we are creating a web application which uses a deep learning mo
 <h2>Project Flow:-</h2>
   <h4><li>Download/Create dataset.</li>
     <li>Augment the dataset</li>
-Preprocess the images and load the data of images into Numpy Arrays.
-Perform a Train Test Split on the dataset.
-Define the model creation function: adding all the neural network layers required.
-Fit the model on train data and check for accuracies using test data as well.
-Save the model and its dependencies.</h4>
+    <li>Preprocess the images and load the data of images into Numpy Arrays.</li>
+    <li>Perform a Train Test Split on the dataset.</li>
+    <li>Define the model creation function: adding all the neural network layers required.</li>
+    <li>Fit the model on train data and check for accuracies using test data as well.</li>
+    <li>Save the model and its dependencies.</li></h4>
