@@ -43,8 +43,11 @@ Tensor flow:
  TensorFlow is an end-to-end open-source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers can easily build and deploy ML-powered applications.
 
 Keras: 
+  
 Keras leverages various optimization techniques to make high-level neural network API easier and more performant. 
+  
 Flask:
+  
  Web framework used for building  Web applications
 If you are using anaconda navigator, follow the below steps to download the required packages:
 Open anaconda prompt.
