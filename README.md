@@ -23,7 +23,7 @@ Field naturalists can only use this web app from anywhere to identify the birds,
 
 In this project, we are creating a web application which uses a deep learning model, trained on different species of birds, flowers and mammals (2 subclasses in each for a quick understanding)and get the prediction of the bird when an image is been given. </h4>
 
-<h2>Architecture Diagram:-<h2>
+<h2>Architecture Diagram:-</h2>
 <img src="https://lh3.googleusercontent.com/zYy7n-JaraSS-1nC47xBKlQVAiGqTda679j8Sg3VgV-VLYAv58JPvHRmn-mcU1O66LTro8pC7eTiUt38RpCX9mSmG4UvQoF7Lp7ZOqJiQ5nqvrZ-G7WVlGv6MPu8FwwB77Q051g"/>
 <h2>Project Flow:-</h2>
   <h4><li>Download/Create dataset.</li>
@@ -33,3 +33,26 @@ In this project, we are creating a web application which uses a deep learning mo
     <li>Define the model creation function: adding all the neural network layers required.</li>
     <li>Fit the model on train data and check for accuracies using test data as well.</li>
     <li>Save the model and its dependencies.</li></h4>
+  <h2>Pre-Requisites</h2>
+  In order to develop this project, we need to install the following software/packages
+
+To install Anaconda navigator and to know how to use Jupyter Notebook a Spyder using Anaconda
+ 
+Tensor flow:
+
+ TensorFlow is an end-to-end open-source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers can easily build and deploy ML-powered applications.
+
+Keras: 
+Keras leverages various optimization techniques to make high-level neural network API easier and more performant. 
+Flask:
+ Web framework used for building  Web applications
+If you are using anaconda navigator, follow the below steps to download the required packages:
+Open anaconda prompt.
+  <li>Type “pip install numpy” and click enter.</li>
+<li>Type “pip install pandas” and click enter.</li>
+<li>Type “pip install matplotlib” and click enter.</li>
+<li>Type “pip install scikit-learn” and click enter.</li>
+<li>Type "pip install tensorflow==1.14.0” and click enter.</li>
+<li>Type "pip install keras=2.2.4” and click enter.</li>
+<li>Type "pip install opencv-python” and click enter.</li>
+<li>Type “pip install Flask” and click enter</li>
