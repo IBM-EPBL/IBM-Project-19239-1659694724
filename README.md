@@ -23,7 +23,7 @@ Field naturalists can only use this web app from anywhere to identify the birds,
 
 In this project, we are creating a web application which uses a deep learning model, trained on different species of birds, flowers and mammals (2 subclasses in each for a quick understanding)and get the prediction of the bird when an image is been given. </h4>
 
-<h2>Architecture Diagram:-</h2>
+<h3>Architecture Diagram:-</h3>
 <img src="https://lh3.googleusercontent.com/zYy7n-JaraSS-1nC47xBKlQVAiGqTda679j8Sg3VgV-VLYAv58JPvHRmn-mcU1O66LTro8pC7eTiUt38RpCX9mSmG4UvQoF7Lp7ZOqJiQ5nqvrZ-G7WVlGv6MPu8FwwB77Q051g"/>
 <h2>Project Flow:-</h2>
   <h4><li>Download/Create dataset.</li>
@@ -33,7 +33,7 @@ In this project, we are creating a web application which uses a deep learning mo
     <li>Define the model creation function: adding all the neural network layers required.</li>
     <li>Fit the model on train data and check for accuracies using test data as well.</li>
     <li>Save the model and its dependencies.</li></h4>
-  <h2>Pre-Requisites</h2>
+  <h4>Pre-Requisites</h4>
   In order to develop this project, we need to install the following software/packages
 
 To install Anaconda navigator and to know how to use Jupyter Notebook a Spyder using Anaconda
