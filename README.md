@@ -33,8 +33,9 @@ In this project, we are creating a web application which uses a deep learning mo
     <li>Define the model creation function: adding all the neural network layers required.</li>
     <li>Fit the model on train data and check for accuracies using test data as well.</li>
     <li>Save the model and its dependencies.</li></h4>
-  <h4>Pre-Requisites</h4>
-  In order to develop this project, we need to install the following software/packages
+  
+  <h2>Pre-Requisites</h2>
+  <h4>In order to develop this project, we need to install the following software/packages
 
 To install Anaconda navigator and to know how to use Jupyter Notebook a Spyder using Anaconda
  
@@ -58,4 +59,4 @@ Open anaconda prompt.
 <li>Type "pip install tensorflow==1.14.0” and click enter.</li>
 <li>Type "pip install keras=2.2.4” and click enter.</li>
 <li>Type "pip install opencv-python” and click enter.</li>
-<li>Type “pip install Flask” and click enter</li>
+<li>Type “pip install Flask” and click enter</li><h4>
